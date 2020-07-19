@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Quido Hoekman</h1>
 <h3 align="center">A passionate frontend developer from The Netherlands</h3>
-- 👨‍💻 All of my projects are available at [https://quido.online](https://quido.online)
+- 👨‍💻 My site is over at [https://quido.online](https://quido.online)
 
-- 📝 I regulary write articles on [https://quido.online/blog](https://quido.online/blog)
+- 📝 I inregulary write articles on [https://quido.online/blog](https://quido.online/blog)
 
 - 💬 Ask me about **React**
 
