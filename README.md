@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quido Hoekman</h1>
 <h3 align="center">A passionate frontend developer from The Netherlands</h3>
 
-Hi, my name is Quido Hoekman, I'm 33 years old, and I live in Apeldoorn, The Netherlands. I've always have been passionate about developing, architecting, maintaining, and researching software. My work is also my hobby, and I'm eager to learn everything that crosses my path.
+Hi, my name is Quido Hoekman, I'm 32 years old, and I live in Apeldoorn, The Netherlands. I've always have been passionate about developing, architecting, maintaining, and researching software. My work is also my hobby, and I'm eager to learn everything that crosses my path.
 
 My main focus is on Front-end Development, but I also have a significant interest in Back-end Development.
 
